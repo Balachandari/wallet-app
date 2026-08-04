@@ -1,7 +1,7 @@
 # Wallet App
 
 ### Overview
-A mobile app that helps users store, organize, and manage gift cards, coupons, offers, and expiry reminders — with future plans for AI-powered financial guidance.
+A mobile app that helps users store, organize, and manage gift cards, coupons, offers, and expiry reminders with future plans for AI-powered financial guidance and organization.
 
 ### Features
 - Store gift cards and coupons
